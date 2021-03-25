@@ -1,4 +1,4 @@
-# RR_League_Creator
+# Round Robin League Creator
 Create a round robin tournament
 
 ## How to
